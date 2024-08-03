@@ -1,0 +1,30 @@
+* {
+    background-color: rgb(200, 213, 26);
+    font-size: 48px;
+    color: rgb(48, 2, 8);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+li,a, ul, ol{
+    text-align: left;
+    font-size: 25px;
+    font-style: italic;
+    color: black;
+    font-weight: normal;
+}
+
+body > a{
+    text-align: right;
+}
+
+p{
+    font-size: 60%;
+    font-weight: 500;
+    color:darkslategrey
+}
+
+img{
+    width: 720px;
+    height: auto;
+}
